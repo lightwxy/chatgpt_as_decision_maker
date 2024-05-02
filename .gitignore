@@ -1,0 +1,21 @@
+# python .gitignore example
+# Ignore all files in the directory named "logs"
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore all files in the directory named "temp"
+temp/
+*.log
+*.tmp
+*.bak
+
+# Ignore all files in the directory named "data"
+data/
+*.csv
+*.xls
+*.xlsx
+*.json
+
